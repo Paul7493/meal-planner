@@ -11,24 +11,23 @@ A modern Next.js application for managing recipes and meal planning with MongoDB
 -  MongoDB database integration
 -  Modern UI components with shadcn/ui
 
+## Quick Start
+
+### 1. Clone the repository
+
+### 2. Open in VSCode
+
 ### 3. Install Dependencies
 ```bash
 npm install
 ```
 
 ### 4. Set up Environment Variables
-Create a `.env.local` file with:
-```
-MONGODB_URI=your_mongodb_connection_string
-NEXTAUTH_SECRET=your_nextauth_secret
-NEXTAUTH_URL=http://localhost:3000
-```
 
 ### 5. Run the Project
 ```bash
 npm run dev
 ```
-
 ## Development
 
 ### Available Scripts
