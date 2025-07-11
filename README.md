@@ -48,11 +48,7 @@ npm run dev
 
 ## Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-This project is licensed under the [MIT]([url](https://choosealicense.com/licenses/mit/)) License.
+This project is licensed under the MIT([https://choosealicense.com/licenses/mit/] License.
