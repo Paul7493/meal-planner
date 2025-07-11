@@ -55,4 +55,4 @@ npm run dev
 5. Submit a pull request
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT]([url](https://choosealicense.com/licenses/mit/)) License.
