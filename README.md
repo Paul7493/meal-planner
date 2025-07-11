@@ -22,20 +22,12 @@ A modern Next.js application for managing recipes and meal planning with MongoDB
 npm install
 ```
 
-### 4. Set up Environment Variables
+### 4. Set up Environment Variables in .env
 
 ### 5. Run the Project
 ```bash
 npm run dev
 ```
-## Development
-
-### Available Scripts
-
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run start` - Start production server
-- `npm run lint` - Run ESLint
 
 ### Technologies Used
 
@@ -51,4 +43,4 @@ npm run dev
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-This project is licensed under the MIT([https://choosealicense.com/licenses/mit/] License.
+This project is licensed under the MIT License.
