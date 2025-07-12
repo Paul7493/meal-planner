@@ -24,7 +24,7 @@ npm install
 
 ### 4. Set up Environment Variables in .env
 
-### 5. Run the Project
+### 5. Run the Project in Development
 ```bash
 npm run dev
 ```
